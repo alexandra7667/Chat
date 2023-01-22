@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TCPChatClient_2.1.1:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TCPChatClient_2_1_1_jar</output-path>
+    <root id="archive" name="TCPChatClient_2.1.1.jar">
+      <element id="module-output" name="TCPChatClient_2.1.1" />
+    </root>
+  </artifact>
+</component>
